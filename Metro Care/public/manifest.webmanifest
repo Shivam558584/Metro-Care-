@@ -1,0 +1,19 @@
+{
+  "name": "MetroCare — Every Complaint Heard",
+  "short_name": "MetroCare",
+  "description": "Offline-first multilingual complaint operations for Ahmedabad Metro.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#101c2f",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icons/metrocare-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
